@@ -1,9 +1,15 @@
 <!doctype html>
-<html><head>
-<meta charset="UTF-8">
-<title>Untitled Document</title>
-<!-- New Wappler Page -->
-</head>
-<body>
+<html lang="en-us">
 
-</body></html>
+<head>
+    <base href="/">
+    <script src="dmxAppConnect/dmxAppConnect.js"></script>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+
+</head>
+
+<body is="dmx-app" id="index">
+</body>
+
+</html>

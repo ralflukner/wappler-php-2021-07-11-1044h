@@ -26,7 +26,7 @@
   "firebaseProjectID": "",
   "herokuProjectID": "",
   "gitURL": "",
-  "activeTarget": "Development",
+  "activeTarget": "Local",
   "useRouting": true,
   "addBase": true,
   "routingHandler": "apache",
